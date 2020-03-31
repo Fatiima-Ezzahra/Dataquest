@@ -27,3 +27,5 @@ Here's a list of courses and their corresponding guided project :
 [Analyzing CIA Factbook Data Using SQL](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
 ### Intermediate SQL for Data Analysis :
 [Answering Business Questions using SQL](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Answering%20Business%20Questions%20using%20SQL.ipynb)
+### Data Analysis in Business :
+[Popular Data Science Questions](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Popular%20Data%20Science%20Questions.ipynb)
