@@ -29,3 +29,8 @@ Here's a list of courses and their corresponding guided project :
 [Answering Business Questions using SQL](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Answering%20Business%20Questions%20using%20SQL.ipynb)
 ### Data Analysis in Business :
 [Popular Data Science Questions](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Popular%20Data%20Science%20Questions.ipynb)
+
+## Step 5 : Probability and Statistics
+
+### Statistic Fundamentals :
+[Investigating Fandango Movie Ratings](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)
