@@ -34,3 +34,5 @@ Here's a list of courses and their corresponding guided project :
 
 ### Statistic Fundamentals :
 [Investigating Fandango Movie Ratings](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)
+### Statistics Intermediate: Averages and Variability :
+[Finding the Best Markets to Advertise In](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
