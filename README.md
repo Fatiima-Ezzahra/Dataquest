@@ -38,3 +38,5 @@ Here's a list of courses and their corresponding guided project :
 [Finding the Best Markets to Advertise In](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
 #### Probability: Fundamentals :
 [Mobile App for Lottery Addiction](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+### Conditional Probability :
+[Building a Spam Filter with Naive Bayes](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
