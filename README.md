@@ -40,3 +40,5 @@ Here's a list of courses and their corresponding guided project :
 [Mobile App for Lottery Addiction](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 ### Conditional Probability :
 [Building a Spam Filter with Naive Bayes](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
+### Hypothesis Testing: Fundamentals :
+[Winning Jeopardy](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Winning%20Jeopardy.ipynb)
