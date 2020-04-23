@@ -51,3 +51,8 @@ Here's a list of courses and their corresponding guided project :
 [Predicting House Sale Prices](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Predicting%20House%20Sale%20Prices.ipynb)
 #### Decision Trees : 
 [Predicting Bike Rentals](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Predicting%20Bike%20Rentals.ipynb)
+
+## Step 7 : Machine Learning Intermediate
+
+#### Deep Learning Fundamentals :
+[Building A Handwritten Digits Classifier](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Building%20A%20Handwritten%20Digits%20Classifier.ipynb)
