@@ -56,3 +56,5 @@ Here's a list of courses and their corresponding guided project :
 
 #### Deep Learning Fundamentals :
 [Building A Handwritten Digits Classifier](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Building%20A%20Handwritten%20Digits%20Classifier.ipynb)
+#### Kaggle Fundamentals :
+[Creating a Kaggle Workflow](https://github.com/Fatiima-Ezzahra/Dataquest/blob/master/Creating%20a%20Kaggle%20Workflow.ipynb)
